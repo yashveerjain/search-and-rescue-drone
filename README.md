@@ -1,7 +1,9 @@
 # search-and-rescue-drone
 In this project the device has been built to detect the people from the aerial view through drone in natural disaster areas
 
->Device image 
+* [Demo Video](https://drive.google.com/file/d/1purq-vl_tMya7WXTJYxCKfoF_y8n3Ic4/view?usp=sharing)
+
+### Device image 
 ![](IMAGES/drone_image.jpg)
 
 
@@ -13,7 +15,7 @@ In this project the device has been built to detect the people from the aerial v
 Technical Details: The search and rescue drone have
 two parts: 1) Neural network 2) Drone. 
 
-1. Neural Network: The algorithm (Faster RCNN) is a computer vision deep learning method to
+1. Neural Network: The algorithm (RetinaNet) is a computer vision deep learning method to
                    detect human being and shows the position in the image by making a rectangular box around
                    the detected human beings in the interface.
 Executed by: TensorFlow, Python
