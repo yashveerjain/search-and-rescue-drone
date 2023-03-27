@@ -30,7 +30,9 @@ Executed by: TensorFlow, Python
       e) FPV Camera of Resolution 700 TVL with Telemetry kit.
 
 -----------------------------------------------------------------
-Details of the project is ![here](docs/project_details.odt)
+Details of the project 
+* [pdf](docs/project_details.pdf)
+* [google docs](https://docs.google.com/document/d/1VTBCkOX--eZivsrvIAMWDQIugIOPztdP1tLuLut6GiE/edit?usp=sharing)
 
 >**CITATION**
 
